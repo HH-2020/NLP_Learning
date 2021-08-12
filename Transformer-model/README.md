@@ -1,6 +1,6 @@
 # Transformer
 
-This project fine-tune a transformer model from huggingface to classify amazon-reviews into two groups. (positive and negative)
+This project fine-tune a BERT model from huggingface to classify amazon-reviews into two groups. (positive and negative)
 
 ## Reference:
 
