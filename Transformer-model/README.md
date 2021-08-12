@@ -1,6 +1,6 @@
 # Transformer
 
-This project was using a transformer model from huggingface to classify a kaggle dataset.
+This project is using a transformer model from huggingface to classify amazon-reviews into two groups. (positive and negative)
 
 ## Reference:
 
